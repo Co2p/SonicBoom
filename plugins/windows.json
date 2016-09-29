@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "Sonic Boom"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "Sonic Boom"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Sonic Boom"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Sonic Boom"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "Sonic Boom"
+        }
+    }
+}
