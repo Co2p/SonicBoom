@@ -1,0 +1,39 @@
+.description {
+    font-size: 9px;
+    letter-spacing: 0;
+    margin: 0 0 16px;
+    font-weight: 100;
+    line-height: 0px;
+}
+
+.keyboard {
+  width: 90%;
+}
+
+.activity {
+  width: 10%;
+}
+
+.key-grid {
+    padding: 0px;
+}
+
+.row13-keys {
+  width: calc(7.69287% - 18px);
+}
+
+.row14-keys {
+  width: calc(7.14% - 18px);
+}
+
+.wide-key {
+  width: calc(14% - 18px);
+}
+
+.space-key {
+  width: calc(60.3% - 18px);
+}
+
+.button-key {
+  height: 42px;
+}

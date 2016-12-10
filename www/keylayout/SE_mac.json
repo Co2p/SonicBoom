@@ -4,368 +4,373 @@
       {
         "ID" : "esc",
         "name": "esc",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f1",
         "name": "F1",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f2",
         "name": "F2",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f3",
         "name": "F3",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f4",
         "name": "F4",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f5",
         "name": "F5",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f6",
         "name": "F6",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f7",
         "name": "F7",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f8",
         "name": "F8",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f9",
         "name": "F9",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f10",
         "name": "F10",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f11",
         "name": "F11",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "f12",
         "name": "F12",
-        "weight" : 1
+        "class" : "row13-keys"
       }
     ],
     [
       {
         "ID" : "§",
         "name": "§",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "1",
         "name": "1",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "2",
         "name": "2",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "3",
         "name": "3",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "4",
         "name": "4",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "5",
         "name": "5",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "6",
         "name": "6",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "7",
         "name": "7",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "8",
         "name": "8",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "9",
         "name": "9",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "0",
         "name": "0",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "plus",
         "name": "+",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "apostrophe",
         "name": "´",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "backspace",
         "name": "backspace",
-        "weight" : 2
+        "class": "material-icons row14-keys"
       }
-    ]
+    ],
     [
       {
         "ID" : "tab",
-        "name": "TAB",
-        "weight" : 2
+        "name": "keyboard_tab",
+        "class": "material-icons wide-key"
       },
       {
         "ID" : "q",
         "name": "Q",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "w",
         "name": "W",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "e",
         "name": "E",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "r",
         "name": "R",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "t",
         "name": "T",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "y",
         "name": "Y",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "u",
         "name": "U",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "i",
         "name": "I",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "o",
         "name": "O",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "p",
         "name": "P",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "å",
         "name": "Å",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "doubledot",
         "name": "¨",
-        "weight" : 1
-      },
-      {
-        "ID" : "return",
-        "name": "Return",
-        "weight" : 1
+        "class" : "row14-keys"
       }
-    ]
+    ],
     [
       {
         "ID" : "a",
         "name": "A",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "s",
         "name": "S",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "d",
         "name": "D",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "f",
         "name": "F",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "g",
         "name": "G",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "h",
         "name": "H",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "j",
         "name": "J",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "k",
         "name": "K",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "l",
         "name": "L",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "ö",
         "name": "Ö",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "ä",
         "name": "Ä",
-        "weight" : 1
+        "class" : "row14-keys"
       },
       {
         "ID" : "singlequot",
         "name": "'",
-        "weight" : 1
+        "class" : "row14-keys"
+      },
+      {
+        "ID" : "return",
+        "name": "keyboard_return",
+        "class": "material-icons wide-key"
       }
-    ]
+    ],
     [
+      {
+        "ID" : "shift",
+        "name": "Shift",
+        "class" : "row13-keys"
+      },
       {
         "ID" : "tag",
         "name": "<",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "z",
         "name": "Z",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "x",
         "name": "X",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "c",
         "name": "C",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "v",
         "name": "V",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "b",
         "name": "B",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "n",
         "name": "N",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "m",
         "name": "M",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "comma",
         "name": ",",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "stop",
         "name": ".",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "minus",
         "name": "-",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "shift",
         "name": "Shift",
-        "weight" : 2
+        "class" : "row13-keys"
       }
-    ]
+    ],
     [
       {
         "ID" : "left_ctr",
         "name": "ctrl",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "left_alt",
         "name": "alt",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "left_cmd",
         "name": "cmd",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "space",
-        "name": "",
-        "weight" : 5
+        "name": "space_bar",
+        "class": "material-icons space-key"
       },
       {
         "ID" : "right_cmd",
         "name": "cmd",
-        "weight" : 1
+        "class" : "row13-keys"
       },
       {
         "ID" : "right_alt",
         "name": "alt",
-        "weight" : 1
-      },
+        "class" : "row13-keys"
+      }
     ]
   ],
   "arrowkeys": [],
