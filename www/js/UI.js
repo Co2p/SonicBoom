@@ -22,10 +22,14 @@ function buildUI(jsonLayout) {
 
 function buildButton(key) {
   let className = "mdl-cell mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect button-key";
+  let prop = '';
   if (key.class != 'undefined') {
     className += " " + key.class;
   }
-  return '<button class="' + className + '" id="' + key.ID + '">' + key.name + '<p class="description">' + 'description' + '</p></button>';
+  if (key.prop != 'undefined') {
+    prop += " " + key.prop;
+  }
+  return '<button class="' + className + '" id="' + key.ID + '" ' + prop + '>' + key.name + '<p class="description">' + 'description' + '</p></button>';
 }
 
 
