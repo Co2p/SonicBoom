@@ -7,11 +7,13 @@
 }
 
 .keyboard {
-  width: 90%;
+  width: 85%;
+  float: left;
 }
 
 .activity {
   width: 10%;
+  float: right;
 }
 
 .key-grid {
@@ -19,21 +21,22 @@
 }
 
 .row13-keys {
-  width: calc(7.69287% - 18px);
+  width: calc(8.2447714% - 18px);
 }
 
 .row14-keys {
-  width: calc(7.14% - 18px);
+  width: calc(7.694% - 18px);
 }
 
 .wide-key {
-  width: calc(14% - 18px);
+  width: calc(14.8% - 18px);
 }
 
 .space-key {
-  width: calc(60.3% - 18px);
+  width: calc(62% - 18px);
 }
 
 .button-key {
   height: 42px;
+  margin: 6px;
 }
