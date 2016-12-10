@@ -4,7 +4,8 @@
       {
         "ID" : "esc",
         "name": "esc",
-        "class" : "row13-keys"
+        "class" : "row13-keys",
+        "prop" : "disabled"
       },
       {
         "ID" : "f1",
@@ -69,305 +70,306 @@
     ],
     [
       {
-        "ID" : "§",
+        "ID" : "Backquote",
         "name": "§",
         "class" : "row14-keys"
       },
       {
-        "ID" : "1",
+        "ID" : "Digit1",
         "name": "1",
         "class" : "row14-keys"
       },
       {
-        "ID" : "2",
+        "ID" : "Digit2",
         "name": "2",
         "class" : "row14-keys"
       },
       {
-        "ID" : "3",
+        "ID" : "Digit3",
         "name": "3",
         "class" : "row14-keys"
       },
       {
-        "ID" : "4",
+        "ID" : "Digit4",
         "name": "4",
         "class" : "row14-keys"
       },
       {
-        "ID" : "5",
+        "ID" : "Digit5",
         "name": "5",
         "class" : "row14-keys"
       },
       {
-        "ID" : "6",
+        "ID" : "Digit6",
         "name": "6",
         "class" : "row14-keys"
       },
       {
-        "ID" : "7",
+        "ID" : "Digit7",
         "name": "7",
         "class" : "row14-keys"
       },
       {
-        "ID" : "8",
+        "ID" : "Digit8",
         "name": "8",
         "class" : "row14-keys"
       },
       {
-        "ID" : "9",
+        "ID" : "Digit9",
         "name": "9",
         "class" : "row14-keys"
       },
       {
-        "ID" : "0",
+        "ID" : "Digit0",
         "name": "0",
         "class" : "row14-keys"
       },
       {
-        "ID" : "plus",
+        "ID" : "Minus",
         "name": "+",
         "class" : "row14-keys"
       },
       {
-        "ID" : "apostrophe",
+        "ID" : "Equal",
         "name": "´",
         "class" : "row14-keys"
       },
       {
-        "ID" : "backspace",
+        "ID" : "Backspace",
         "name": "backspace",
-        "class": "material-icons row14-keys"
+        "class": "material-icons row14-keys",
+        "prop" : "disabled"
       }
     ],
     [
       {
-        "ID" : "tab",
+        "ID" : "Tab",
         "name": "keyboard_tab",
         "class": "material-icons wide-key"
       },
       {
-        "ID" : "q",
+        "ID" : "KeyQ",
         "name": "Q",
         "class" : "row14-keys"
       },
       {
-        "ID" : "w",
+        "ID" : "KeyW",
         "name": "W",
         "class" : "row14-keys"
       },
       {
-        "ID" : "e",
+        "ID" : "KeyE",
         "name": "E",
         "class" : "row14-keys"
       },
       {
-        "ID" : "r",
+        "ID" : "KeyR",
         "name": "R",
         "class" : "row14-keys"
       },
       {
-        "ID" : "t",
+        "ID" : "KeyT",
         "name": "T",
         "class" : "row14-keys"
       },
       {
-        "ID" : "y",
+        "ID" : "KeyY",
         "name": "Y",
         "class" : "row14-keys"
       },
       {
-        "ID" : "u",
+        "ID" : "KeyU",
         "name": "U",
         "class" : "row14-keys"
       },
       {
-        "ID" : "i",
+        "ID" : "KeyI",
         "name": "I",
         "class" : "row14-keys"
       },
       {
-        "ID" : "o",
+        "ID" : "KeyO",
         "name": "O",
         "class" : "row14-keys"
       },
       {
-        "ID" : "p",
+        "ID" : "KeyP",
         "name": "P",
         "class" : "row14-keys"
       },
       {
-        "ID" : "å",
+        "ID" : "BracketLeft",
         "name": "Å",
         "class" : "row14-keys"
       },
       {
-        "ID" : "doubledot",
+        "ID" : "BracketRight",
         "name": "¨",
         "class" : "row14-keys"
       }
     ],
     [
       {
-        "ID" : "a",
+        "ID" : "KeyA",
         "name": "A",
         "class" : "row14-keys"
       },
       {
-        "ID" : "s",
+        "ID" : "KeyS",
         "name": "S",
         "class" : "row14-keys"
       },
       {
-        "ID" : "d",
+        "ID" : "KeyD",
         "name": "D",
         "class" : "row14-keys"
       },
       {
-        "ID" : "f",
+        "ID" : "KeyF",
         "name": "F",
         "class" : "row14-keys"
       },
       {
-        "ID" : "g",
+        "ID" : "KeyG",
         "name": "G",
         "class" : "row14-keys"
       },
       {
-        "ID" : "h",
+        "ID" : "KeyH",
         "name": "H",
         "class" : "row14-keys"
       },
       {
-        "ID" : "j",
+        "ID" : "KeyJ",
         "name": "J",
         "class" : "row14-keys"
       },
       {
-        "ID" : "k",
+        "ID" : "KeyK",
         "name": "K",
         "class" : "row14-keys"
       },
       {
-        "ID" : "l",
+        "ID" : "KeyL",
         "name": "L",
         "class" : "row14-keys"
       },
       {
-        "ID" : "ö",
+        "ID" : "Semicolon",
         "name": "Ö",
         "class" : "row14-keys"
       },
       {
-        "ID" : "ä",
+        "ID" : "Quote",
         "name": "Ä",
         "class" : "row14-keys"
       },
       {
-        "ID" : "singlequot",
+        "ID" : "Backslash",
         "name": "'",
         "class" : "row14-keys"
       },
       {
-        "ID" : "return",
+        "ID" : "Enter",
         "name": "keyboard_return",
         "class": "material-icons wide-key"
       }
     ],
     [
       {
-        "ID" : "shift",
+        "ID" : "ShiftLeft",
         "name": "Shift",
         "class" : "row13-keys"
       },
       {
-        "ID" : "tag",
+        "ID" : "IntlBackslash",
         "name": "<",
         "class" : "row13-keys"
       },
       {
-        "ID" : "z",
+        "ID" : "KeyZ",
         "name": "Z",
         "class" : "row13-keys"
       },
       {
-        "ID" : "x",
+        "ID" : "KeyX",
         "name": "X",
         "class" : "row13-keys"
       },
       {
-        "ID" : "c",
+        "ID" : "KeyC",
         "name": "C",
         "class" : "row13-keys"
       },
       {
-        "ID" : "v",
+        "ID" : "KeyV",
         "name": "V",
         "class" : "row13-keys"
       },
       {
-        "ID" : "b",
+        "ID" : "KeyB",
         "name": "B",
         "class" : "row13-keys"
       },
       {
-        "ID" : "n",
+        "ID" : "KeyN",
         "name": "N",
         "class" : "row13-keys"
       },
       {
-        "ID" : "m",
+        "ID" : "KeyM",
         "name": "M",
         "class" : "row13-keys"
       },
       {
-        "ID" : "comma",
+        "ID" : "Comma",
         "name": ",",
         "class" : "row13-keys"
       },
       {
-        "ID" : "stop",
+        "ID" : "Period",
         "name": ".",
         "class" : "row13-keys"
       },
       {
-        "ID" : "minus",
+        "ID" : "Slash",
         "name": "-",
         "class" : "row13-keys"
       },
       {
-        "ID" : "shift",
+        "ID" : "ShiftRight",
         "name": "Shift",
         "class" : "row13-keys"
       }
     ],
     [
       {
-        "ID" : "left_ctr",
+        "ID" : "ControlLeft",
         "name": "ctrl",
         "class" : "row13-keys"
       },
       {
-        "ID" : "left_alt",
+        "ID" : "AltLeft",
         "name": "alt",
         "class" : "row13-keys"
       },
       {
-        "ID" : "left_cmd",
+        "ID" : "MetaLeft",
         "name": "cmd",
         "class" : "row13-keys"
       },
       {
-        "ID" : "space",
+        "ID" : "Space",
         "name": "space_bar",
         "class": "material-icons space-key"
       },
       {
-        "ID" : "right_cmd",
+        "ID" : "MetaRight",
         "name": "cmd",
         "class" : "row13-keys"
       },
       {
-        "ID" : "right_alt",
+        "ID" : "AltRight",
         "name": "alt",
         "class" : "row13-keys"
       }
