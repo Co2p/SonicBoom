@@ -204,7 +204,7 @@
       },
       {
         "ID" : "BracketRight",
-        "name": "¨",
+        "name": "^",
         "class" : "row14-keys"
       }
     ],
