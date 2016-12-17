@@ -14,8 +14,8 @@ Nothing works at the moment.
 - [ ] effects
 
 ####Build
-Built using [Cordova](https://cordova.apache.org/) to run just run
+Built using [Cordova](https://cordova.apache.org/) to run just
 
 `cordova run <OS>`
 
-where <OS> is windows, osx, linux or browser
+in a terminal where <OS> is windows, osx, linux or browser
