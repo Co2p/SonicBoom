@@ -21,7 +21,7 @@
 }
 
 .row13-keys {
-  width: calc(8.2447714% - 18px);
+  width: calc(8.244% - 18px);
 }
 
 .row14-keys {
@@ -33,10 +33,11 @@
 }
 
 .space-key {
-  width: calc(62% - 18px);
+  width: calc(61.5% - 18px);
 }
 
 .button-key {
   height: 42px;
   margin: 6px;
+  min-width: 32px;
 }
