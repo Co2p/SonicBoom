@@ -1,4 +1,5 @@
 #Sonic Boom
+![sonicboom](www/img/logo.png)
 
 A simple soundboard trigger built with cordova.
 
