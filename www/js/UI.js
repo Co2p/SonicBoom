@@ -26,8 +26,9 @@ function buildButton(key) {
   if (key.class != 'undefined') {
     className += " " + key.class;
   }
-  if (key.prop != 'undefined') {
-    prop += " " + key.prop;
+  if (key.prop === 'disabled') {
+    //prop += " " + key.prop;
+    className += " mdl-button--colored mdl-color--red";
   }
   return '<button class="' + className + '" id="' + key.ID + '" ' + prop + '>' + key.name + '<p class="description">' + 'description' + '</p></button>';
 }
