@@ -1,5 +1,5 @@
 // Source: https://www.html5rocks.com/en/tutorials/webaudio/intro/
-var audioContext = new AudioContext();
+var audioContext;
 var audioBuffers = {}; //Hashtable with buffers
 window.addEventListener('load', initAudio, false);
 
@@ -46,5 +46,7 @@ function loadSound(url, id) {
       console.log("loaded " + id);
     }, () => {console.log("oups, thats a audio error");});
   }
+  //TODO catch if send fails
   request.send();
+
 }
