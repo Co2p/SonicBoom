@@ -23,7 +23,7 @@ function playSound(id) {
   }
 }
 
-function playSound(id, time) {
+function playSound(id, time=0) {
   console.log("playing id: " + id);
   var source = audioContext.createBufferSource(); // creates a sound source
   console.log(audioBuffers[id]);
