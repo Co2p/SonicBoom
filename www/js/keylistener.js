@@ -25,3 +25,12 @@ document.onkeydown=function(e) {
         console.log(previousKey);
     }
 }
+
+$("body").click((e) => {
+  //checks that the clicked button is in the div with class "keyboard", this might break if the amount of divs are changed
+  console.log(e.target.parentElement.parentElement.parentElement.parentElement.className === 'keyboard') {
+    let keyClicked = e.target.parentElement.id;
+    loadSound('ide2.wav', keyClicked);
+    playSound(keyClicked);
+  }
+});
