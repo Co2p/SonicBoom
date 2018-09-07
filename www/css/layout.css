@@ -11,6 +11,10 @@
   float: left;
 }
 
+.keyrow {
+  display: flex;
+}
+
 .activity {
   width: 10%;
   float: right;
